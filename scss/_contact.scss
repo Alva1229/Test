@@ -1,0 +1,51 @@
+/*Contact*/
+
+.contact-info {
+    margin-top: 50px;
+}
+.headline {
+    color: $redorange;
+    margin-bottom: 10px;
+}
+
+.headline2 {
+    color: $redorange;
+    margin-top: 50px;
+}
+.headline3 {
+    color: $redorange;
+    margin-top: 50px;
+}
+.form-container {
+    width: 400px;
+    float: left;
+}
+input {
+
+margin-top: 10px;
+padding: 10px;
+width: 100%;
+
+}
+textarea {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    height: 100px;
+}
+hr {
+    border: 3px solid $charcoal;
+    width: 100%;
+}
+
+button {
+    background-color: $redorange;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    color: $white;
+}
+.reach-container {
+    width: 400px;
+    float: right;
+}
